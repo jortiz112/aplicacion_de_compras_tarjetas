@@ -93,4 +93,4 @@ ordenadas de menor a mayor valor.
 
 ## 📜Certificado
 
-![img](images/Certificado.png)
+![img](images/certificado.png)
